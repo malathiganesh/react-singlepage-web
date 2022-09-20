@@ -1,0 +1,20 @@
+/* .product-container{
+    width: 80%;
+    margin: auto;
+}
+.fooditem-container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.form-container{
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+} */
+/* .fooditem-container{
+    display: grid;
+  grid-template-columns: repeat(2, 1fr);
+} */

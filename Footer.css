@@ -1,0 +1,21 @@
+.foterelement{
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+    padding: 0 35% ;
+    font-family: Georgia;
+}
+.footer {
+ background-color: black;
+ /* border-top:2px solid red; */
+ position: fixed;
+ width: 100%;
+ bottom: 0;
+ color: white;
+ font-size: 25px;
+}
+.foticon{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 45%;
+}

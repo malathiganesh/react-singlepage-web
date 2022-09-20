@@ -1,0 +1,75 @@
+/* .foodie{
+    margin: 10px;
+}
+.items{
+    justify-content: space-between;
+    display: flex;
+    
+} */
+/* select{
+    border-radius: 20px;
+    border:solid 1px orange;
+    width: 100px;
+    height: 35px;
+    color: orange;
+}
+select:hover{
+    background-color: orange;
+    color: white;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+} */
+/* .container1{
+    display: grid;
+  grid-template-columns: repeat(2, 1fr);
+} */
+.tot{
+    /* border: solid 1px white; */
+    display: flex;
+    padding-left: 50px; 
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.tot:hover{
+  background-color: white;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+   border-radius: 20px; 
+}
+
+.imgn{
+    padding: 20px;
+    border-radius: 25px;
+}
+.imgn img{
+    width: 150px;
+    height: 150px;
+}
+.details{
+    padding-left: 20px;
+    font-family: Georgia;
+}
+.f1{
+    color: rgb(6, 2, 10);
+    font-size: 20px;
+    font-weight: bolder;   
+}
+.f5{
+    color: red;
+}
+.f3{
+    color: blue;
+}
+.f4{
+    color: purple;
+}
+.btn{
+    background-color: white;
+    border-radius: 5px;
+    border: solid 1px orange;
+    color: orange;
+    /* width: 50%; */
+}
+.btn:hover{
+    background-color:orange;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+   color: white;
+}

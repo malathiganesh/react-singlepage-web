@@ -1,0 +1,48 @@
+/* .swg{
+    background:linear-gradient(to right,);
+    background-image: linear-gradient(to right, orange , yellow);
+    height: 200px;
+}
+.a1{
+    border-radius: 50px;
+    height: 20px;
+    margin-bottom: 20px;
+} 
+.a2{
+    border-radius: 50px;
+    height: 20px;
+    margin-bottom: 10px;
+} 
+.bn{
+    border-radius: 50px;
+} */
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+} */
+.formcontainer{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(orange, white);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fo{
+    border: solid 1px black;
+    height: 300px;
+    width: 400px;
+    padding-top: 40px;
+    border-radius: 25px;
+    background-image: linear-gradient(orange, yellow);
+}
+.fa{
+    border-radius: 5px;
+    height: 30px;
+}
+.fb{
+    border-radius: 5px;
+    height: 30px;
+}

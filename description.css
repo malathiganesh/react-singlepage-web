@@ -1,0 +1,23 @@
+.whole{
+    background-color: orange;
+    height: 650px;
+    padding-top: 30px;
+}
+.paramcontainer{
+ border: solid 1px black;
+ /* background-color: aliceblue; */
+ background-color:black;
+    color: orange;
+ width: 600px;
+ height: 600px;
+ /* display: flex; */
+ padding: 15px 10px 10px 10px;
+ margin-left: 27%;
+ 
+}
+/* .paramimage{
+      width: 400px;
+} */
+img{
+    width: 580px;
+}
